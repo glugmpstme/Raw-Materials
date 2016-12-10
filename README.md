@@ -1,1 +1,1 @@
-# kachra
+Inventory of raw materials.
